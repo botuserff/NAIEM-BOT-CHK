@@ -1,7 +1,7 @@
 {
   "name": "bot-assistant",
   "version": "5.0.0",
-  "description": "made by Mohammad Akash",
+  "description": "made by Naiem",
   "main": "index.js",
   "engines": {
     "node": ">=20.18.1",
@@ -19,17 +19,17 @@
   "keywords": [
     "bot",
     "facebook",
-    "akashproject",
+    "naiemproject",
     "messenger",
     "javascript",
-    "akash",
-    "akashbot",
+    "naiem",
+    "naiembot",
     "sujonbot",
     "chat-bot",
     "messenger-bot",
     "cyberbot"
   ],
-  "author": "Mohammad Akash",
+  "author": "Naiem",
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/your-repo-link/issues"
